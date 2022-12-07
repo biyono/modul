@@ -1,5 +1,5 @@
 {
-  "kategori_module": [
+  "kategori": [
         {
             "createdAt": "2022-10-12T14:47:21.844Z",
             "title": "Anak",
@@ -64,7 +64,7 @@
             "id": "9"
         }
     ],
-    "sub_kategori_module": [
+    "sub_kategori": [
         {
             "createdAt": "2022-10-12T14:47:21.844Z",
             "title": "Anak",
