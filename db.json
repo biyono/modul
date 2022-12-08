@@ -3,65 +3,72 @@
         {
             "createdAt": "2022-10-12T14:47:21.844Z",
             "title": "Anak",
-            "icon": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1132.jpg",
+            "icon": "https://raw.githubusercontent.com/biyono/modul/main/kategori1.png",
             "slug": "anak",
             "id": "1"
         },
         {
             "createdAt": "2022-10-12T16:15:27.526Z",
             "title": "Maternitas",
-            "icon": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/693.jpg",
+            "icon": "https://raw.githubusercontent.com/biyono/modul/main/kategori2.png",
             "slug": "Maternitas",
             "id": "2"
         },
         {
             "createdAt": "2022-10-12T17:34:04.782Z",
             "title": "Intensif",
-            "icon": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/415.jpg",
+            "icon": "https://raw.githubusercontent.com/biyono/modul/main/kategori3.png",
             "slug": "Intensif",
             "id": "3"
         },
         {
             "createdAt": "2022-10-13T01:00:52.219Z",
             "title": "Komunitas",
-            "icon": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/296.jpg",
+            "icon": "https://raw.githubusercontent.com/biyono/modul/main/kategori4.png",
             "slug": "Komunitas",
             "id": "4"
         },
         {
             "createdAt": "2022-10-12T19:10:43.619Z",
             "title": "Geriatri",
-            "icon": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/309.jpg",
+            "icon": "https://raw.githubusercontent.com/biyono/modul/main/kategori5.png",
             "slug": "Geriatri",
             "id": "5"
         },
         {
             "createdAt": "2022-10-13T10:46:25.664Z",
             "title": "Gawat Darurat",
-            "icon": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/743.jpg",
+            "icon": "https://raw.githubusercontent.com/biyono/modul/main/kategori6.png",
             "slug": "gawat_darurat",
             "id": "6"
         },
         {
             "createdAt": "2022-10-13T04:54:06.655Z",
             "title": "KMB",
-            "icon": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1007.jpg",
+            "icon": "https://raw.githubusercontent.com/biyono/modul/main/kategori7.png",
             "slug": "KMB",
             "id": "7"
         },
         {
             "createdAt": "2022-10-12T19:38:52.043Z",
             "title": "Jiwa",
-            "icon": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/714.jpg",
+            "icon": "https://raw.githubusercontent.com/biyono/modul/main/kategori8.png",
             "slug": "Jiwa",
             "id": "8"
         },
         {
             "createdAt": "2022-10-12T15:35:47.263Z",
             "title": "K. Dasar",
-            "icon": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/943.jpg",
+            "icon": "https://raw.githubusercontent.com/biyono/modul/main/kategori9.png",
             "slug": "K_Dasar",
             "id": "9"
+        },
+        {
+            "createdAt": "2022-10-12T15:35:47.263Z",
+            "title": "K. Dasar",
+            "icon": "https://raw.githubusercontent.com/biyono/modul/main/kategori9.png",
+            "slug": "K_Dasar",
+            "id": "10"
         }
     ],
     "sub_kategori": [
